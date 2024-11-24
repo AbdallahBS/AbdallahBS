@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.postimg.cc/4xPQHcvJ/Capture-d-cran-2024-11-24-165633.png" alt="GitHub Logo"  />
+  <img src="https://i.postimg.cc/zDTWRW59/Black-and-White-Simple-Art-Director-Linked-In-Banner.png" alt="banner"  />
 </div>
 <h1 align="center">Hi 👋, I'm Abdallah Ben Salem</h1>
 <h3 align="center">Junior developer</h3>
